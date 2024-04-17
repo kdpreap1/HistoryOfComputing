@@ -2,6 +2,8 @@
 
 This is a book created from markdown and executable code.
 
+Total crap.
+
 This is a nothing sentence.
 
 See @knuth84 for additional discussion of literate programming.
