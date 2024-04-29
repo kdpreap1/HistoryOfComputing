@@ -1,9 +1,9 @@
 # Introduction
 
-This is a book created from markdown and executable code.
+This is a book created by students in Hult's SCI-1 Computer Science Class. When completed it will tell the story of computing from the very beginning
+to the age of social media. The aim of this book is to bring out various inflection points in computing history, and how these technologies and moments
+changed our economic and personal lives in huge ways.
 
-Total crap.
+This book is written by the students together on github and is an open book. Fork this repository and submit pull requests to us if you would like to help!
 
-This is a nothing sentence.
 
-See @knuth84 for additional discussion of literate programming.
