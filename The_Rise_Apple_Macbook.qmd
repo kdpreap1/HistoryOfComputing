@@ -1,0 +1,70 @@
+# The Rise of Apple and Mackbook
+
+
+Apple, the company that transformed how computers are used and perceived, introduced a new era characterized by innovative graphical user interfaces, aesthetic computer design, and brilliant marketing. In the 1970s, computers were large and expensive machines primarily used by big businesses, universities, and government agencies. Apple revolutionized this scenario by envisioning computers for personal use, accessible to the general public. This shift was made possible with the advent of microprocessors, which are complete central processing units on a single chip. This innovation democratized technology and set the stage for a series of groundbreaking products that would consistently challenge and expand the boundaries of what technology could achieve in people's daily lives.
+
+## Early Days
+
+The tech giant was born on April 1, 1976, with the launch of the Apple I, a basic yet pioneering project that paved the way for a promising future. The initiative was spearheaded by two founders: Steve Wozniak, who designed and built the computer, and Steve Jobs, who marketed it and borrowed his parents' garage for the company's initial operations. The venture started with minimal investment, with Wozniak selling his HP calculator and Jobs his Volkswagen van. Their first product was groundbreaking as the first personal computer to come with a fully assembled motherboard, which included a CPU, RAM, and basic textual-video chips. However, to make it operational, buyers needed to add a case, power supply, keyboard, and display. Although it was a significant advancement, there was still room for enhancement, particularly in making it more user-friendly.
+
+![](Images/apple1.png)
+
+Apple I, 1976.
+
+Building on the modest success of the Apple I, the Apple II was introduced in 1977 as one of the first highly successful mass-produced microcomputers. This second product set a new trend in the computer market with its notable engineering and user-friendly design. It utilized the MOS Technology 6502 microprocessor, which was both affordable and powerful, enabling widespread adoption. As one of the first personal computers to support color graphics and feature an integrated keyboard, the Apple II required only the addition of a display monitor to be fully operational. It achieved tremendous market success, particularly among families and schools, thereby becoming one of the pioneers in the widespread implementation of computers in education during the 1980s. Apple II's success marked Apple’s first major triumph and laid a crucial foundation for future projects and innovations.
+
+Apple II, 1977.
+
+In 1980, faced with intense competition from IBM and Microsoft, Apple sought to strengthen its position in the business computing sector with the launch of a successor to the Apple II. The new Apple III was designed to operate at higher speeds, included 512KB of RAM, offered enhanced graphics capabilities, and ran on a powerful operating system. However, in an effort to make the machine quieter, Steve Jobs decided against including a cooling fan, which led to overheating problems and subsequent hardware failures. This design flaw necessitated a costly recall of the first 14,000 units, significantly damaging Apple's reputation among business users. Despite its innovative features, the Apple III did not meet sales expectations as competitors offered less expensive alternatives. This period proved to be a huge challenge for Apple, providing crucial lessons in product development and setting the stage for a much-needed new initiative.
+
+Apple III, 1980.
+
+
+In 1979, prior to developing their next product, Apple was approached by Xerox PARC, which expressed interest in investing in the company. Steve Jobs proposed that “in exchange for an invitation to PARC, he would sell the corporation 100,000 private shares at $10.50 each”, as detailed in the book Dealers of Lighting. Apple’s engineers were interested in visiting PARC to explore its technology and persuaded Jobs to secure this visit. The tour proved unexpectedly fruitful, unveiling revolutionary technologies such as the high-quality graphical user interface and a pointing device later known as the mouse, along with advanced display technology capable of rendering images and text from pixels. These innovations significantly influenced Apple's subsequent product development. A decade later, Xerox PARC sued Apple, alleging copyright and patent infringements, the lawsuit was dismissed because the initial invitation had been formally agreed upon and too much time had elapsed. This episode has since underscored the critical importance of patenting technological innovations to protect them from being appropriated by competitors in the tech industry.
+
+The computer developed after the Xerox PARC visit was the Apple Lisa, launched in 1983 and named after Job’s daughter. Despite its technological advancements, including features such as windows, icons, menus, a mouse, high memory, and an advanced processor, Lisa did not improve Apple’s financial standing following the Apple III’s failure. Priced at more than double that of the Apple III, its high cost significantly limited sales. However, the lessons learned from Lisa's market reception prepared Apple to develop a new computer that would initiate a new era for the company in the following year.
+
+Apple Lisa, 1983.
+
+The Apple Macintosh, commonly known as the Mac, marked a revolutionary step forward in user-friendly technology and innovative product marketing. Equipped with a high-tech graphical user interface inspired by earlier explorations at Xerox Parc, this model, unlike many of its contemporaries, included a built-in screen and mouse, thus redefining design simplicity and intuitive user experience. Steve Jobs made a historical advertisement during the Super Bowl commercial, stating that "On January 24th, Apple Computer will introduce Macintosh. And you'll see why 1984 won't be like '1984'". This made a clear reference to the book by George Orwell called “1984”, which is about a world under authoritarian governments, positioning the Mac as a symbol of individuality and resistance against a conformist dystopia. While the computer was groundbreaking and received a lot of attention, its high price did not enable an immediate strong sale. The following year was marked by disruption and new initiatives that would significantly influence its future product development.
+
+
+Apple Macintosh, 1984.
+
+## Steve Jobs at NeXT
+
+In 1985, Steve Jobs left Apple due to internal conflicts and a clash of visions with the then-Apple CEO and other executives. In response, Jobs founded NeXT, a company focused on producing computers for the educational sector and businesses. It immensely contributed to technology by developing the NeXTSTEP Operating System, which was one of the first operating systems to be built around an object-oriented programming model, particularly using Objective-C, simplifying the development of complex applications. It also included a rich GUI, allowing for detailed graphics and text, and a powerful integrated development environment, that significantly inspired future IDEs. Although NeXT did not succeed with good sales, due to the high price, it set an important foundation for a sophisticated operating system that Jobs would implement in future computers. During this period he purchased The Graphics Group from Lucasfilm, later renamed Pixar, which would revolutionize computer animation with hits like "Toy Story”. This transformative period in Jobs's career, marked by technological innovation and entrepreneurial spirit, laid the groundwork for his return to Apple, where he would once again revolutionize the technology industry.
+
+
+NeXT Computer, 1988.
+
+NeXT was renowned for its cutting-edge technology, leading to its acquisition by Apple in 1996. This move marked Steve Jobs's return as CEO and initiated a new era of innovation. The NeXT Operating System was quickly integrated into Apple's product lineup, significantly influencing the design and functionality of the new iMac. Launched with an authentic all-in-one design that combined the computer and monitor, the iMac also offered various color options, enhancing its aesthetic appeal and user-friendliness. Notably, it was the first consumer computer to discard floppy drives in favor of USB ports, setting a new standard for peripheral connectivity. These innovations played a pivotal role in reestablishing Apple’s reputation as a leader in technology advancement.
+
+## The prodigal father returns
+
+iMac, 1998.
+
+From its inception in a humble garage to becoming a titan of the technology industry, Apple has consistently pushed the boundaries of what is possible in computing. Each chapter in its history reflects a relentless pursuit of innovation, driven by a vision to make technology accessible and essential to everyday life. From the pioneering Apple I to the groundbreaking Macintosh and the innovative iMac, each product release has been a testament to the company's commitment to innovation and user-friendly design. The strategic acquisition of NeXT brought Steve Jobs back to the helm, reigniting Apple's creative spark and leading to a new era of success. As Apple continues to evolve, it remains a symbol of technological progress and a leader in shaping how technology enriches our lives.
+
+
+
+
+
+
+
+
+
+Bibliography:
+
+Lemelson-MIT Program. "Steve Jobs and Steve Wozniak." Lemelson-MIT Program. Accessed May 2, 2024. https://lemelson.mit.edu/resources/steve-jobs-and-steve-wozniak
+
+Britannica, T. Editors of Encyclopaedia. "Apple Inc.," Encyclopaedia Britannica, May 2, 2024. https://www.britannica.com/summary/Apple-Inc
+
+Apple Explained. (2021, March 18). History of Steve Jobs (Full Documentary) [Video]. YouTube. https://www.youtube.com/watch?v=s4pVFLUlx8g
+
+
+Resources:
+https://www.youtube.com/watch?v=VStscvYLYLs
+https://www.youtube.com/watch?v=VtvjbmoDx-I
+https://www.youtube.com/shorts/OudH-Bz8I34
+https://www.youtube.com/watch?v=s4pVFLUlx8g&t=3306s
